@@ -9,7 +9,7 @@ namespace BM25Sample
         {
             var docs = new List<string>
                 {
-                    "The quick brown fox jumps over the lazy dog. Phi",
+                    "The quick brown fox jumps over the lazy dog.",
                     "The fox",
                     "The dog",
                     "A brown dog jumps over another dog.",
