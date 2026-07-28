@@ -58,7 +58,7 @@ Traditional BM25 relies on exact token overlap between query and document. Howev
 
 ### Prerequisites
 
-- .NET 8.0+
+- .NET 10.0+
 
 ### Installation
 
